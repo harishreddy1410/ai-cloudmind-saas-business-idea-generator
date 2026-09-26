@@ -1,7 +1,7 @@
 # Created ai business idea generator saas app 
 URL : https://business-idea-generator-six-nu.vercel.app
 
-````bash
+```bash
 npx create-next-app saas --ts --eslint --tailwind --no-src-dir --no-app
 ```
 
